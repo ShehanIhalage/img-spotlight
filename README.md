@@ -1,4 +1,5 @@
 <h1 align="center">IMG - Spotlight</h1>
+<img src="https://github.com/ShehanIhalage/img-spotlight/blob/main/guid.gif" />
 
 ## Key Features
 
